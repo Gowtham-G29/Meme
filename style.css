@@ -1,0 +1,24 @@
+html{
+    background-color: black;
+}
+
+img{
+     
+    height: 400px;
+    width: 50%;
+    border: 5px solid white;
+    margin-left: 25%;
+    margin-top: 50px;
+
+}
+.text{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+h1{
+    color: bisque;
+    text-transform: uppercase;
+}
+h3{
+    color: white;
+}
